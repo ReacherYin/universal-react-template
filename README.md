@@ -16,7 +16,7 @@
 
 4. `wml start`
 
-### Start Project
+### Start Projects
 
 - web: `yarn start`
 - app: `yarn start` then `yarn ios` or `yarn android`
