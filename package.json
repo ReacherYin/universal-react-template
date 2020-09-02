@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "universal-react-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ReacherYin/universal-react-template.git",
+  "author": "Reacher <reacheryin@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "workspaces/*"
+  ]
+}
